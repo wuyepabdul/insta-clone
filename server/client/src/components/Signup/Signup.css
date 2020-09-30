@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+
+.card-header {
+  font-size: 3rem;
+  font-family: "Grand Hotel", cursive;
+}
+
+.row {
+  margin-top: 3rem;
+  justify-content: center;
+}
+.mycard {
+  padding: 3px;
+  margin: 1.5rem;
+}

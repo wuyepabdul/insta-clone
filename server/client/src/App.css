@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+
+.navbar-brand {
+  font-size: 3rem;
+  font-family: "Grand Hotel", cursive;
+}
+
+/*profile  */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item {
+  width: 30%;
+}
+
+/* home */
+.home-card {
+  max-width: 30%;
+  height: max-content;
+  margin: 26px auto;
+}
+.likeIcon:hover {
+  cursor: pointer;
+}
+.unlikeIcon:hover {
+  cursor: pointer;
+}
+.deleteIcon:hover {
+  cursor: pointer;
+}
+
+/* Signin */
+.signin-card-header {
+  font-size: 3rem;
+  font-family: "Grand Hotel", cursive;
+}
+
+.row {
+  margin-top: 3rem;
+  justify-content: center;
+}
+.signin-card {
+  padding: 3px;
+  margin: 1.5rem;
+}
+/* Signup */
+
+.signup-card-header {
+  font-size: 3rem;
+  font-family: "Grand Hotel", cursive;
+}
+
+.row {
+  margin-top: 3rem;
+  justify-content: center;
+}
+.sigicard {
+  padding: 3px;
+  margin: 1.5rem;
+}
+/* create post */
+.card-header {
+  font-size: 3rem;
+  font-family: "Grand Hotel", cursive;
+}
+
+.row {
+  margin-top: 3rem;
+  justify-content: center;
+}
+.mycard {
+  padding: 3px;
+  margin: 1.5rem;
+}
+
+/* Header */
+.searchIcon:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
